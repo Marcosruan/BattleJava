@@ -135,7 +135,7 @@ src/
  - Ter o Git instalado para clonar o repositório.
 
 ### Clonar o Repositório
- - Abra o seu terminal e execute o comando abaixo para clonar o projeto
+ - Abra o seu terminal e execute o comando abaixo para clonar o projeto:
 
    ```bash
    git clone https://github.com/Marcosruan/BattleJava.git
@@ -147,7 +147,7 @@ src/
    ```
    
 ### Executando Sem IDE (Via Terminal)
-   - Acesse a pasta fonte do projeto
+   - Acesse a pasta fonte do projeto:
    ```bash
    cd src
    ```
@@ -156,3 +156,12 @@ src/
    ```bash
    javac main/Main.java jogo/*.java personagens/*.java personagens/herois/*.java personagens/inimigos/*.java utils/*.java itens/*.java itens/pocao/mana/*.java itens/pocao/vida/*.java itens/runa/armadura/*.java itens/runa/chanceCritico/*.java itens/runa/dano/*.java itens/runa/especial/*.java itens/runa/mana/*.java itens/runa/manaRegen/*.java itens/runa/vida/*.java
    ```
+
+   - Execute o jogo através da classe Main:
+   ```bash
+   java main.Main
+   ```
+### Executando Com IDE (VS Code, Eclipse ou IntelliJ)
+   - Abrir o projeto:
+       - No VS Code: Abra o VS Code, vá em File > Open Folder e selecione a pasta raiz BattleJava. Certifique-se de ter a extensão Extension Pack for Java instalada.
+        - No Eclipse / IntelliJ: Vá em Import > Existing Projects into Workspace (ou Open no IntelliJ) e selecione a pasta raiz do projeto.
