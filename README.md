@@ -169,3 +169,20 @@ src/
        - Navegue pelo gerenciador de arquivos até a classe Main.java (localizada dentro de src/main/).
        - Clique com o botão direito no arquivo Main.java e selecione Run Java ou clique no botão de Play (Run) no canto superior direito da tela.
        - O jogo iniciará diretamente pelo console integrado da sua IDE.
+
+## Tecnologias usadas
+
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=orange)
+
+## 🗃️ **Versão**
+
+    - 1.0.0
+
+## 👨‍💻 Autor
+
+- **Marcos Ruan V. de Figueiredo**  
+  [@Marcosruan](https://github.com/Marcosruan)
+
+## 🏛️ **Licença**
+
+    - Distribuído sob a licença GPL2. Acesse `LICENSE.txt` para mais informações.
