@@ -165,3 +165,7 @@ src/
    - Abrir o projeto:
        - No VS Code: Abra o VS Code, vá em File > Open Folder e selecione a pasta raiz BattleJava. Certifique-se de ter a extensão Extension Pack for Java instalada.
         - No Eclipse / IntelliJ: Vá em Import > Existing Projects into Workspace (ou Open no IntelliJ) e selecione a pasta raiz do projeto.
+   - Executar:
+       - Navegue pelo gerenciador de arquivos até a classe Main.java (localizada dentro de src/main/).
+       - Clique com o botão direito no arquivo Main.java e selecione Run Java ou clique no botão de Play (Run) no canto superior direito da tela.
+       - O jogo iniciará diretamente pelo console integrado da sua IDE.
