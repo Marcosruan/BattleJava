@@ -145,3 +145,14 @@ src/
    ```bash
    cd BattleJava
    ```
+   
+### Executando Sem IDE (Via Terminal)
+   - Acesse a pasta fonte do projeto
+   ```bash
+   cd src
+   ```
+
+   - Compile todos os arquivos .java de uma vez:
+   ```bash
+   javac main/Main.java jogo/*.java personagens/*.java personagens/herois/*.java personagens/inimigos/*.java utils/*.java itens/*.java itens/pocao/mana/*.java itens/pocao/vida/*.java itens/runa/armadura/*.java itens/runa/chanceCritico/*.java itens/runa/dano/*.java itens/runa/especial/*.java itens/runa/mana/*.java itens/runa/manaRegen/*.java itens/runa/vida/*.java
+   ```
