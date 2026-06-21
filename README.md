@@ -128,3 +128,20 @@ src/
     ├── InicializaItens.java
     └── TextoGradativo.java
 ```
+## 🚀 Como Executar o Projeto
+### Pré-requisitos:
+
+ - Ter o Java JDK 11 ou superior instalado em sua máquina.
+ - Ter o Git instalado para clonar o repositório.
+
+### Clonar o Repositório
+ - Abra o seu terminal e execute o comando abaixo para clonar o projeto
+
+   ```bash
+   git clone https://github.com/Marcosruan/BattleJava.git
+   ```
+ - Em seguida, entre na pasta raiz do projeto:
+
+   ```bash
+   cd BattleJava
+   ```
