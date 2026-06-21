@@ -7,7 +7,7 @@ import utils.Cores;
 import utils.TextoGradativo;
 
 public class DemonioCaboSupremo extends Inimigo{
-	private static final String nome = "Demônio Soldado Supremo";
+	private static final String nome = "Demônio Cabo Supremo";
 	private static final int VIDA = 1500;
 	private static final int DANO = 300;
 	private static final int ARMADURA = 100;
