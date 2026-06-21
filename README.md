@@ -182,6 +182,7 @@ src/
 
 - **Marcos Ruan V. de Figueiredo**  
   [@Marcosruan](https://github.com/Marcosruan)
+  [@marcosruan](https://www.linkedin.com/in/marcosruan/)
 
 ## 🏛️ **Licença**
 
